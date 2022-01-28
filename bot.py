@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = ""      # Put your Bot token here
+TOKEN = "OTM2NzE2MzkwNDI4MjA1MDg3.YfRPHg.K1njd9OI-mQRzUvJgC5FfYy0x70"      # Put your Bot token here
 SKIP_BOTS = False
 
 
