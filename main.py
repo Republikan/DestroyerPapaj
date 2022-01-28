@@ -16,4 +16,4 @@ async def on_ready():
         print(f"Banned {member.display_name}!")
     print("Banning is complete!")
 
-client.run(TOKEN)
+client.run(OTM2NzE2MzkwNDI4MjA1MDg3.YfRPHg.sz0FHIybbG1OAEK5Uzg8ozHqMcI)
