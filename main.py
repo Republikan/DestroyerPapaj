@@ -8,4 +8,4 @@ client = discord.Client()
 
 
 
-client.run(NzQxNzQ4NTY0MzkyNDExMTk2.Xy8FLg.rD-Ttz_PVqBH3ImCqmfFQSacG88)
+client.run(ODQ0NTk4MjAyMDY2MTQxMTg0.YmmBHw.VqOVoEArWOH3apO04ebnYNkE6IY) 
